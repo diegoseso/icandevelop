@@ -1,0 +1,1 @@
+docker run -dit -p 8002:80 -v /home/diegoseso/projects/icandevelop:/usr/share/nginx/html nginx
